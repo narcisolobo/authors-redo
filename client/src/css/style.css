@@ -1,0 +1,41 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+.brand {
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+.card {
+  margin: 1rem 0 0 0;
+  padding-bottom: 1rem;
+}
+
+.btn {
+  display: inline-block;
+  width: auto;
+  padding: 0.5rem 1.5rem;
+  margin: 0;
+}
+
+.flex-end {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.delete {
+  cursor: pointer;
+}
